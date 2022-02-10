@@ -6,3 +6,6 @@
 - :video_game: I’d love to collaborate on anything related to Robotics, Embedded systems or anything of such trait.
 - :thought_balloon: My favorite areas of research/work are Signal processing, Control systems, Embedded Systems, Computer Vision and Automation.
 - :e-mail: Feel free to reach me on my email for important discussions: [My email](mailto:nsk126@gmail.com)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk126&layout=compact)]
