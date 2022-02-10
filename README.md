@@ -8,4 +8,4 @@
 - :e-mail: Feel free to reach me on my email for important discussions: [My email](mailto:nsk126@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk126&layout=compact)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk126&layout=compact)
