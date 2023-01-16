@@ -10,5 +10,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk126&layout=compact)](https://github.com/nsk126)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk126&layout=compact)](https://github.com/nsk126) -->
 
