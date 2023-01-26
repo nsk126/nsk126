@@ -6,7 +6,7 @@
 - :game_die: I’m working on a wide range of projects from Game Dev to Control of Robots and PCB design .
 - :video_game: I’d love to collaborate on anything related to Robotics, Embedded systems or anything of such trait.
 - :thought_balloon: My favorite areas of research/work are Signal processing, Control systems, Embedded Systems, Computer Vision and Automation.
-- :e-mail: Feel free to reach me on my email for important discussions: [My email](mailto:nsk126@gmail.com)
+- :e-mail: Feel free to reach me on my email for important discussions: [My email](mailto:ksuresh3141@gmail.com)
 
 
 
