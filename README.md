@@ -8,5 +8,5 @@
 - :thought_balloon: My favorite areas of research/work are Robotics, Machine Learning, and Embedded Sytems.
 - :e-mail: Feel free to reach me on my email for important discussions: [My email](mailto:ksuresh3141@gmail.com)
 
-
+![](https://komarev.com/ghpvc/?username=nsk126&color=blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk126&layout=compact)](https://github.com/nsk126)
