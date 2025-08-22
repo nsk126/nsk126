@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### I'm Suresh or rather known as nsk126 on Github.
 
-- 📘 I currently work at a startup in the Bay Area as a Robotics Software Engineer.
-- I've finished my Masters at ASU with a major in Robotics.
+- I currently work at a startup in the Bay Area as a Robotics Software Engineer.
+- 📘 I've finished my Masters at ASU with a major in Robotics.
 - :rocket: I've worked as a Robotics Engineer at a startup. 
 - :game_die: I’m working on a wide range of projects from Robot Learning, Control and motion to Game dev and PCB design .
 - :video_game: I’d love to collaborate on anything related to Robotics or Embedded systems.
